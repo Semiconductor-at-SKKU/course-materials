@@ -27,5 +27,3 @@
 | [W14](weeks/W14/README.md) | MCP ①: 기능을 AI에 꽂는 표준 콘센트 | FAB-1 조회 도구 + W07 predict_thickness() + W13 search_sop()를 MCP 도구로 연결해 자연어로 호출 (실습 키트 템플릿) |
 | [W15](weeks/W15/README.md) | MCP ② 통합 에이전트 + 하네스: 나만의 AI Assistant 완성 | W08에서 고른 FAB-1 불량의 숨은 원인을 에이전트로 찾기 → SOP·8D 인용 + 안전 규칙 3개 |
 | [W16](weeks/W16/README.md) | 📌 기말 발표 & AGI 토론 | 10분 발표 ('FAB-1 OO 불량의 원인과 조치') + Notebook·리포트·PRD 제출 |
-
-> 이 저장소에는 정답·모범 풀이를 올리지 않습니다.
